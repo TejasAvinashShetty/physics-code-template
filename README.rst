@@ -1,9 +1,12 @@
-Sample Module Repository
-========================
+Physics Code Template
+=====================
 
-This simple project is an example repo for Python projects.
+A humble attempt to restructure `shablona <https://github.com/uwescience/shablona>`_ analogus to `samlpemod <https://github.com/kennethreitz/samplemod>`__ . This is a work in progress.
 
-`Learn more <http://www.kennethreitz.org/essays/repository-structure-and-python>`_.
+
+
+
+`Learn more about repository structure and python <http://www.kennethreitz.org/essays/repository-structure-and-python>`_.
 
 ---------------
 
