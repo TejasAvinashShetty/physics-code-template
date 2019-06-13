@@ -2,7 +2,7 @@ Physics Code Template
 =====================
 
 A humble attempt to restructure `shablona <https://github.com/uwescience/shablona>`_ analogus to `samlpemod <https://github.com/kennethreitz/samplemod>`__ . This is a work in progress.
-
+Significant inspiration derived from `opensource <https://github.com/nathanshammah/opensource>`_
 
 
 
