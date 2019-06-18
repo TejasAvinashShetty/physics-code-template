@@ -15,6 +15,8 @@ and more.
     Report a security vulnerability: https://tidelift.com/docs/security
 
 SciPy depends on NumPy, which provides convenient and fast N-dimensional array manipulation. SciPy is built to work with NumPy arrays, and provides many user-friendly and efficient numerical routines such as routines for numerical integration and optimization. Together, they run on all popular operating syste
+https://help.github.com/en/categories/github-pages-basics
+https://help.github.com/en/articles/what-is-github-pages
 
 `Learn more about repository structure and python <http://www.kennethreitz.org/essays/repository-structure-and-python>`_.
 
